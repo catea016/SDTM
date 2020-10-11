@@ -1,11 +1,11 @@
-#Topic: Creational Design Patterns
+# Topic: Creational Design Patterns
 Author: Gherbovei Ecaterina
 
-##Objectives:
+## Objectives:
 1. Study the Creational Design Patterns
 2. Implement three of them in real project
 
-##Theory:
+## Theory:
 In software engineering, creational design patterns are design patterns that deal with object creation mechanisms, 
 trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design
 problems or in added complexity to the design. Creational design patterns solve this problem by somehow controlling this
@@ -24,7 +24,7 @@ Five well-known design patterns that are parts of creational patterns are :
  objects by cloning this prototype.
  - **Singleton pattern**, which ensures that a class only has one instance, and provides a global point of access to it.
  
-##Implementation:
+## Implementation:
 In this project I've implemented 3 creational design patterns i.e. (Singleton, Builder and Abstract Factory)
 with the fundamental object **Order**. The Object class contain one attribute that is an array list **items** that is a
 list of all orders that make an visitor. Also this class contains an inner class OrderBuilder that have methods `add()` 
@@ -90,4 +90,4 @@ class MondayMenu extends Menu {
     }
 }
 ```
-##Screenshots:
+## Screenshots:
