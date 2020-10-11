@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a10f9c4-e49e-4d9e-bb86-e4b9f345a2fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lab1_CreationalDP/CreationalDP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/FridayMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Kitchen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/MondayMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Order$OrderBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/ThursdayMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/TuesdayMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Waiter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/WednesdayMenu.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +52,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lab1_CreationalDP.Main" />
       <module name="SDTM_Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab1_CreationalDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
