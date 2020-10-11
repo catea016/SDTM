@@ -26,7 +26,7 @@ Five well-known design patterns that are parts of creational patterns are :
  
 ## Implementation:
 In this project I've implemented 3 creational design patterns i.e. (Singleton, Builder and Abstract Factory)
-with the fundamental object **Order**. The Object class contain one attribute that is an array list **items** that is a
+with the fundamental object **Order**. The Order class contain one attribute that is an array list **items** that is a
 list of all orders that make an visitor. Also this class contains an inner class OrderBuilder that have methods `add()` 
 , that allow us to create the order add different types of food into the order list `items`:
  ```Java
