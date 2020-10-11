@@ -89,4 +89,3 @@ class MondayMenu extends Menu {
 }
 ```
 ##Screenshots:
-![output_screen](https://drive.google.com/file/d/1y3qXEKS_vt23ppV9BmuQL_8q2sQrxzOH/view?usp=sharing)

@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a10f9c4-e49e-4d9e-bb86-e4b9f345a2fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab1_CreationalDP/CreationalDP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/FridayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Kitchen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/MondayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Order$OrderBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/ThursdayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/TuesdayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/Waiter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1/WednesdayMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/CreationalDP.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_CreationalDP/CREATIONAL_DP.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,22 +107,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601569990178" />
-    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1602354115401">
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1602429173259">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602354115401" />
-    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1602354115401">
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602429173259" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1602429173259">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602354115401" />
-    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1602354115400">
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602429173259" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1602429173258">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602354115400" />
-    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1602354115401">
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602429173258" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1602429173259">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602354115401" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602429173259" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1601650939478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
