@@ -1,7 +1,7 @@
-package Lab1;
+package Lab1_CreationalDP;
 
 public class Visitor extends Person {
-
+    // creating new order from the visitor
     public Order newOrder() {
 
         return new Order.OrderBuilder()

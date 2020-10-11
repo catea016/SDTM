@@ -1,12 +1,12 @@
-package Lab1;
+package Lab1_CreationalDP;
 
 import java.util.ArrayList;
 
+// implementing builder pattern
 public class Order {
 
     ArrayList<String> items = new ArrayList<>();
 
-    // builder pattern
     public static class OrderBuilder {
 
         ArrayList<String> items = new ArrayList<>();

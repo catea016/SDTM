@@ -1,10 +1,9 @@
-package Lab1;
+package Lab1_CreationalDP;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 
-//import Lab1.Menu;
-
+// implementing singleton pattern for kitchen class
 public class Kitchen {
     private ArrayList<Order> orders = new ArrayList<>();
     private static Kitchen instance;
@@ -13,7 +12,6 @@ public class Kitchen {
     private Kitchen() {
     }
 
-    // singleton pattern
     public static Kitchen getInstance() {
         if (instance == null) {
             instance = new Kitchen();

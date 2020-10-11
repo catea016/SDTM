@@ -1,5 +1,6 @@
-package Lab1;
+package Lab1_CreationalDP;
 
+// implementing abstract factory pattern for menu class
 public abstract class Menu {
     abstract String breakfastMenu();
 
@@ -31,9 +32,9 @@ class MondayMenu extends Menu {
                 "\n" + "Bifana sandwich with pork: 80 lei" +
                 "\n" + "Tuna salad: 30 lei" +
                 "\n" + "Caesar salad: 30 lei" +
-                "\n" + "Greek salad: 30 lei"+
-                "\n" + "Pasta Carbonara: 80 lei"+
-                "\n" + "Chicken ravioli : 60 lei"+ "\n";
+                "\n" + "Greek salad: 30 lei" +
+                "\n" + "Pasta Carbonara: 80 lei" +
+                "\n" + "Chicken ravioli : 60 lei" + "\n";
     }
 }
 
@@ -59,12 +60,13 @@ class TuesdayMenu extends Menu {
                 "\n" + "Bifana sandwich with pork: 80 lei" +
                 "\n" + "Tuna salad: 30 lei" +
                 "\n" + "Caesar salad: 30 lei" +
-                "\n" + "Greek salad: 30 lei"+
-                "\n" + "Pasta Carbonara: 80 lei"+
-                "\n" + "Chicken ravioli : 60 lei"+ "\n";
+                "\n" + "Greek salad: 30 lei" +
+                "\n" + "Pasta Carbonara: 80 lei" +
+                "\n" + "Chicken ravioli : 60 lei" + "\n";
     }
 }
-class WednesdayMenu extends Menu{
+
+class WednesdayMenu extends Menu {
 
     @Override
     String breakfastMenu() {
@@ -86,12 +88,13 @@ class WednesdayMenu extends Menu{
                 "\n" + "Bifana sandwich with pork: 80 lei" +
                 "\n" + "Tuna salad: 30 lei" +
                 "\n" + "Caesar salad: 30 lei" +
-                "\n" + "Greek salad: 30 lei"+
-                "\n" + "Pasta Carbonara: 80 lei"+
-                "\n" + "Chicken ravioli : 60 lei"+ "\n";
+                "\n" + "Greek salad: 30 lei" +
+                "\n" + "Pasta Carbonara: 80 lei" +
+                "\n" + "Chicken ravioli : 60 lei" + "\n";
     }
 }
-class ThursdayMenu extends Menu{
+
+class ThursdayMenu extends Menu {
 
     @Override
     String breakfastMenu() {
@@ -113,12 +116,13 @@ class ThursdayMenu extends Menu{
                 "\n" + "Bifana sandwich with pork: 80 lei" +
                 "\n" + "Tuna salad: 30 lei" +
                 "\n" + "Caesar salad: 30 lei" +
-                "\n" + "Greek salad: 30 lei"+
-                "\n" + "Pasta Carbonara: 80 lei"+
-                "\n" + "Chicken ravioli : 60 lei"+ "\n";
+                "\n" + "Greek salad: 30 lei" +
+                "\n" + "Pasta Carbonara: 80 lei" +
+                "\n" + "Chicken ravioli : 60 lei" + "\n";
     }
 }
-class FridayMenu extends Menu{
+
+class FridayMenu extends Menu {
 
     @Override
     String breakfastMenu() {
@@ -140,9 +144,9 @@ class FridayMenu extends Menu{
                 "\n" + "Bifana sandwich with pork: 80 lei" +
                 "\n" + "Tuna salad: 30 lei" +
                 "\n" + "Caesar salad: 30 lei" +
-                "\n" + "Greek salad: 30 lei"+
-                "\n" + "Pasta Carbonara: 80 lei"+
-                "\n" + "Chicken ravioli : 60 lei"+ "\n";
+                "\n" + "Greek salad: 30 lei" +
+                "\n" + "Pasta Carbonara: 80 lei" +
+                "\n" + "Chicken ravioli : 60 lei" + "\n";
     }
 }
 
