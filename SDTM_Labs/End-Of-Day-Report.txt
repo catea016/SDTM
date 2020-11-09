@@ -1,0 +1,10 @@
+Fish and seafood: 150 lei
+Bifana sandwich with pork (x3): 80 lei
+Tuna salad (x8) : 30 lei
+Caesar salad (x5): 30 lei
+Greek salad (x3): 30 lei
+Pasta Carbonara (x10): 80 lei
+Chicken ravioli (x3): 60 lei
+
+Totals: 1700
+null
