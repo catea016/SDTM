@@ -91,4 +91,4 @@ class MondayMenu extends Menu {
 }
 ```
 ## Screenshots:
-![](../Images/Capture_Lab1.png)
+![](Images/Capture_Lab1.png)

@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a10f9c4-e49e-4d9e-bb86-e4b9f345a2fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/STRUCTURAL_DP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/report_console.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/report_file.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/restaurant/CREATIONAL_DP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STRUCTURAL_DP.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/STRUCTURAL_DP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restaurant/CREATIONAL_DP.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/CREATIONAL_DP.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +39,15 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\IdeaProjects\SDTM\SDTM_Labs\src\Images\Lab1" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="restaurant.reports" />
       <recent name="restaurant" />
       <recent name="Lab1_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\SDTM\SDTM_Labs\src\Images" />
+      <recent name="C:\Users\User\IdeaProjects\SDTM\SDTM_Labs\src" />
+      <recent name="C:\Users\User\IdeaProjects\SDTM\SDTM_Labs\src\Images\Lab1" />
     </key>
   </component>
   <component name="RunManager">
