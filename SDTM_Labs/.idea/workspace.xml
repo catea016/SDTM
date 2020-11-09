@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a10f9c4-e49e-4d9e-bb86-e4b9f345a2fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/OrderBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/menu/FridayMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/menu/MondayMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/menu/ThursdayMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/menu/TuesdayMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/menu/WednesdayMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/EndOfDayReportAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/ReportAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/printer/CompositePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/printer/ConsolePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/printer/FilePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/printer/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/reportDecorator/ArrangeTitleToMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/reportDecorator/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/reportDecorator/ReportTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/reportDecorator/SeparateTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/reports/reportDecorator/TitleDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/staff/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STRUCTURAL_DP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/FridayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Kitchen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/MondayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Order$OrderBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/ThursdayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/TuesdayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/Waiter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDTM_Labs/Lab1_CreationalDP/WednesdayMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/CREATIONAL_DP.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/CREATIONAL_DP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Kitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/kitchen/Kitchen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_CreationalDP/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/staff/Waiter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,30 +126,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601569990178" />
-    <state width="1237" height="220" key="GridCell.Tab.0.bottom" timestamp="1604940608009">
+    <state width="1237" height="330" key="GridCell.Tab.0.bottom" timestamp="1604941351357">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604940608009" />
-    <state width="1237" height="220" key="GridCell.Tab.0.center" timestamp="1604940608009">
+    <state width="1237" height="330" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604941351357" />
+    <state width="1237" height="330" key="GridCell.Tab.0.center" timestamp="1604941351357">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604940608009" />
-    <state width="1237" height="220" key="GridCell.Tab.0.left" timestamp="1604940608009">
+    <state width="1237" height="330" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604941351357" />
+    <state width="1237" height="330" key="GridCell.Tab.0.left" timestamp="1604941351357">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604940608009" />
-    <state width="1237" height="220" key="GridCell.Tab.0.right" timestamp="1604940608009">
+    <state width="1237" height="330" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604941351357" />
+    <state width="1237" height="330" key="GridCell.Tab.0.right" timestamp="1604941351357">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604940608009" />
+    <state width="1237" height="330" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604941351357" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1601650939478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601650939478" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1604919140260">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1604943243118">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604919140260" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604943243118" />
     <state x="218" y="76" width="844" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604168707485">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
