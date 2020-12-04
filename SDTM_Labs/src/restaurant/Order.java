@@ -5,22 +5,18 @@ import java.util.ArrayList;
 // implementing builder pattern
 public class Order {
 
-    ArrayList<Item> items = new ArrayList<>();
+    ArrayList<String> items = new ArrayList<>();
 
     public static class OrderBuilder {
 
-        ArrayList<Item> items = new ArrayList<>();
+        ArrayList<String> items = new ArrayList<>();
 
         public OrderBuilder() {
 
         }
 
         public OrderBuilder add(String orderItem) {
-            return add(orderItem, 1);
-        }
-
-        public OrderBuilder add(String itemName, int quantity) {
-            items.add(new Order.Item(itemName, quantity));
+            items.add(orderItem);
             return this;
         }
 
@@ -31,13 +27,4 @@ public class Order {
         }
     }
 
-    public static class Item {
-        public final String itemName;
-        public final int quantity;
-
-        public Item(String itemName, int quantity) {
-            this.itemName = itemName;
-            this.quantity = quantity;
-        }
-    }
 }

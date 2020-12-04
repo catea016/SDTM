@@ -4,13 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class OrderBook {
-    private List<Order> orders = new ArrayList<>();
+    protected ArrayList<Order> orders = new ArrayList<>();
+    Visitor visitor = new Visitor();
 
     public void addOrder(Order order) {
         orders.add(order);
     }
 
-    public List<Order> getOrders() {
+
+    public void  printOrders(){
+        for (int i = 0; i<orders.size(); i++){
+            System.out.println(orders.get(i));
+        }
+    }
+
+    public ArrayList<Order> getOrders() {
         return orders;
     }
 

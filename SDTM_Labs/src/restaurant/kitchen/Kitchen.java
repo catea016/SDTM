@@ -38,9 +38,9 @@ public class Kitchen {
         return menu;
     }
 
-    public void prepareMeal() {
+    /*public void prepareMeal() {
         System.out.println("The order is getting prepared");
-    }
+    }*/
 
     public void setDayOfWeek(int dayOfWeek) {
         this.dayOfWeek = dayOfWeek;
@@ -50,3 +50,4 @@ public class Kitchen {
         orders.add(order);
     }
 }
+

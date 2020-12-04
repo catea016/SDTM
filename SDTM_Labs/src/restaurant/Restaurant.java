@@ -2,6 +2,8 @@ package restaurant;
 
 import restaurant.kitchen.Kitchen;
 import restaurant.menu.Menu;
+import restaurant.notification.NotificationCollection;
+import restaurant.notification.NotificationPrinter;
 import restaurant.reports.reportDecorator.ArrangeTitleToMiddle;
 import restaurant.reports.reportDecorator.ReportTitle;
 import restaurant.reports.reportDecorator.SeparateTitle;
@@ -44,12 +46,15 @@ public class Restaurant {
 
     private void serve() {
         Kitchen kitchen = Kitchen.getInstance();
-
         Visitor visitor = new Visitor();
         waiter.takeOrder(visitor.newOrder());
-        System.out.println("Your order is:" + "\n" + visitor.newOrder().items);
+        //print notifications for visitor
+        NotificationCollection nc = new NotificationCollection();
+        NotificationPrinter notify = new NotificationPrinter(nc);
+        notify.printNotifications();
+        System.out.println(visitor.newOrder().items);
         waiter.sendOrderToKitchen(kitchen);
-        kitchen.prepareMeal();
+
     }
 
     public void startDay(int dayOfWeek) {
@@ -66,6 +71,7 @@ public class Restaurant {
 
         waiter.setMenu(menu);
         waiter.setOrderBook(orderBook);
+
     }
 
     private static int getDayOfWeek() {
